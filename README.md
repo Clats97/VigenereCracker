@@ -107,3 +107,11 @@ This Python script is designed to crack text encrypted with a modified Vigenère
   Ensure the passkeys file path is correct and the file exists.
 
 ---
+
+**Author**
+
+Joshua M Clatney (Clats97)
+
+Ethical Pentesting Enthusiast
+
+Copyright 2025 Joshua M Clatney (Clats97)
